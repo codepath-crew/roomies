@@ -92,4 +92,4 @@ Join along with your roommates to split costs on Amazon items instantly, alert o
 
 ### [BONUS] Interactive Prototype
 
-<img src="prototype.gif" width=600>
+<img src="prototype.gif" width=300>
