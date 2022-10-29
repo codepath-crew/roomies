@@ -87,7 +87,7 @@ Join along with your roommates to split costs on Amazon items instantly, alert o
 
 ### [BONUS] Digital Wireframes & Mockups
 
-<img src="https://user-images.githubusercontent.com/74375719/198803226-6df39c05-ecdf-4e87-8c62-211f62da4971.png" width=400>
+<img src="https://user-images.githubusercontent.com/74375719/198803226-6df39c05-ecdf-4e87-8c62-211f62da4971.png" width=600>
 
 
 ### [BONUS] Interactive Prototype
