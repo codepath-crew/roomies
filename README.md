@@ -1,4 +1,4 @@
-# roomies
+# Roomies
 
 Mohammed: Here is the walkthrough of the signing up and log in and implementing database (Firebase) ([#11][i11]) and ([#3][i3])
 
@@ -11,11 +11,13 @@ Mohammed: Here is the walkthrough of the signing up and log in and implementing 
 
 
 Melineh: Here is the walkthrough of adding amazon wishlist items locally and accessing links: ([#8][i8]) and ([#15][i15])
+
 <img src= 'https://media.giphy.com/media/V5GU8pr48pKrGwBgxS/giphy.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 [i8]: https://github.com/codepath-crew/roomies/issues/8
 [i15]:  https://github.com/codepath-crew/roomies/issues/15
 
+-----
 
 USER STORIES:
 - [X] User can create account
