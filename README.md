@@ -2,7 +2,7 @@
 
 Mohammed: Here is the walkthrough of the signing up and log in and implementing database (Firebase) ([#11][i11]) and ([#3][i3])
 
-<img src='' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src='https://github.com/HeartArmy/gifrepo/blob/main/singup%26loginWalkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 
 [i11]: https://github.com/codepath-crew/roomies/issues/11 
