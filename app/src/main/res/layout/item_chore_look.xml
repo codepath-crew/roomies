@@ -10,6 +10,8 @@
         android:layout_width="173dp"
         android:layout_height="26dp"
         android:text="TextView"
+        android:textSize="16dp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.021"
@@ -22,6 +24,9 @@
         android:layout_width="175dp"
         android:layout_height="25dp"
         android:text="TextView"
+        android:textSize="16dp"
+        android:textStyle="bold"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.362"
