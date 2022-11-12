@@ -82,4 +82,29 @@
         app:layout_constraintTop_toBottomOf="@+id/exitTName"
         app:layout_constraintVertical_bias="0.045" />
 
+    <Button
+        android:id="@+id/notifButton"
+        android:layout_width="83dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="20dp"
+        android:text="Send"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.868"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/addMemberButton"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/textViewMsg"
+        android:layout_width="242dp"
+        android:layout_height="48dp"
+        android:hint="Message All"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/notifButton"
+        app:layout_constraintHorizontal_bias="0.266"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/addMemberButton"
+        app:layout_constraintVertical_bias="0.048" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

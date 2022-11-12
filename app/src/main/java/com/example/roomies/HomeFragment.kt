@@ -1,5 +1,6 @@
 package com.example.roomies
 
+import android.os.Build
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -10,6 +11,8 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import android.telephony.SmsManager
+import android.telephony.SmsMessage
 
 
 val people = mutableListOf<Person>()
@@ -44,6 +47,7 @@ class HomeFragment : Fragment() {
         rvItems.adapter = rvAdapter
         var addButton = view.findViewById<Button>(R.id.addMemberButton)
 
+        var msgButton = view.findViewById<Button>(R.id.notifButton)
         var nameEditText = view.findViewById<EditText>(R.id.exitTName)
         var phoneEditText = view.findViewById<EditText>(R.id.exitTPhone)
 
@@ -61,6 +65,24 @@ class HomeFragment : Fragment() {
 
             val toast = Toast.makeText(view.context, text, duration)
             toast.show()
+
+
+        }
+        msgButton.setOnClickListener {
+            //go through list of phones, and send sms
+            val smsManager  = SmsManager.getDefault()
+
+            var msgEdit = view.findViewById<EditText>(R.id.textViewMsg)
+            var phoneNum = ""
+            smsManager.sendTextMessage(phoneNum,null, msgEdit.text.toString(), null, null)
+            val text = "Sent!"
+            val duration = Toast.LENGTH_SHORT
+
+            val toast = Toast.makeText(view.context, text, duration)
+            toast.show()
+            //for(x in people){
+            //    smsManager.sendTextMessage(x.phone,null, msgEdit.text.toString(), null, null)
+            //}
 
 
         }
