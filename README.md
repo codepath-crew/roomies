@@ -5,10 +5,11 @@
 
 <img src='https://media.giphy.com/media/tw16Xtm0hzh49x12mi/giphy.gif' title='Demo Walkthrough' width='300px' alt='Video Walkthrough' />
 
-- Storing data in firebase implemented
+- Persistent storage using firebase (sending and receiving data from and to recycler view)
 
-<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/firebaseStoreDataWalkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
-<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/Screen%20Shot%202022-11-12%20at%2012.53.47%20PM.png' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/firebase.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+
+<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/firebaseWalkthough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 [i30]: https://github.com/codepath-crew/roomies/issues/30
 [i20]: https://github.com/codepath-crew/roomies/issues/20
