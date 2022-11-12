@@ -5,6 +5,11 @@
 
 <img src='https://media.giphy.com/media/tw16Xtm0hzh49x12mi/giphy.gif' title='Demo Walkthrough' width='300px' alt='Video Walkthrough' />
 
+- Storing data in firebase implemented
+
+<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/firebaseStoreDataWalkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/Screen%20Shot%202022-11-12%20at%2012.53.47%20PM.png' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+
 [i30]: https://github.com/codepath-crew/roomies/issues/30
 [i20]: https://github.com/codepath-crew/roomies/issues/20
 [i18]: https://github.com/codepath-crew/roomies/issues/18
@@ -24,6 +29,7 @@
 
 
 
+### Week 2:
 
 Mohammed: Here is the walkthrough of the signing up and log in and implementing database (Firebase) ([#11][i11]) and ([#3][i3])
 
