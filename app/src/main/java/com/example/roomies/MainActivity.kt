@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         val fragmentManager: FragmentManager = supportFragmentManager
         val fragment1: Fragment = HomeFragment()
-        //val fragment2: Fragment = ChoresFragment() //TODO
+        val fragment2: Fragment = ChoresFragment()
         val fragment3: Fragment = RentFragment()
         val fragment4: Fragment = AmazonFragment()
 
@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             lateinit var fragment: Fragment
             when (item.itemId) {
                 R.id.homeButton -> fragment = fragment1
-                //R.id.choresButton -> fragment = fragment2
+                R.id.choresButton -> fragment = fragment2
                  R.id.rentButton -> fragment = fragment3
                  R.id.amazonButton -> fragment = fragment4
             }
