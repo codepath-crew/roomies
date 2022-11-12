@@ -1,4 +1,15 @@
-# Roomies
+# Roomies Most Recent Milestone
+- Here is a walkthrough of all the fragments using BottomNavigation:
+- We have Home, Chores, Rent, and Amazon Wishlist
+- Implements ([#30][#20][#18][#7]) and more user stories
+
+<img src='https://media.giphy.com/media/tw16Xtm0hzh49x12mi/giphy.gif' title='Demo Walkthrough' width='300px' alt='Video Walkthrough' />
+
+[i30]: https://github.com/codepath-crew/roomies/issues/30
+[i20]: https://github.com/codepath-crew/roomies/issues/20
+[i18]: https://github.com/codepath-crew/roomies/issues/18
+[i7]: https://github.com/codepath-crew/roomies/issues/7
+
 
 Mohammed: Here is the walkthrough of the signing up and log in and implementing database (Firebase) ([#11][i11]) and ([#3][i3])
 
@@ -22,6 +33,7 @@ Melineh: Here is the walkthrough of adding amazon wishlist items locally and acc
 USER STORIES:
 - [X] User can create account
 - [X] Login screen to join correct roommate portal
-- [ ] Live bell notifications to alert others of incoming guests
-- [ ] To-Do chore list you can assign to specific group members
+- [X] Live bell notifications to alert others of incoming guests- users can prompt texts/calls
+- [X] To-Do chore list you can assign to specific group members
 - [X] Wishlist of amazon products and estimated cost per household member
+- [X] Rent Tracker/ Splitter
