@@ -9,7 +9,7 @@
 
 <img src= 'https://github.com/HeartArmy/gifrepo/blob/main/firebase.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
-<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/firebaseWalkthough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src= 'https://github.com/HeartArmy/gifrepo/blob/main/firebaseWalkthough.gif' title='Video Walkthrough' width='800px' alt='Video Walkthrough' />
 
 [i30]: https://github.com/codepath-crew/roomies/issues/30
 [i20]: https://github.com/codepath-crew/roomies/issues/20
