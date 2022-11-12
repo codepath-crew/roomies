@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         val fragmentManager: FragmentManager = supportFragmentManager
         val fragment1: Fragment = HomeFragment()
         //val fragment2: Fragment = ChoresFragment() //TODO
-        //val fragment3: Fragment = RentFragment //TODO
+        val fragment3: Fragment = RentFragment()
         val fragment4: Fragment = AmazonFragment()
 
         //TODO strech feature: implement file persistence to firebase
@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
             when (item.itemId) {
                 R.id.homeButton -> fragment = fragment1
                 //R.id.choresButton -> fragment = fragment2
-                //R.id.rentButton -> fragment = fragment3
+                 R.id.rentButton -> fragment = fragment3
                  R.id.amazonButton -> fragment = fragment4
             }
             fragmentManager.beginTransaction().replace(R.id.rlContainer, fragment).commit()

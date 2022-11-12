@@ -1,5 +1,17 @@
 <resources>
-    <string name="app_name">roomies</string>
+
+    <string name="app_name">Roomies</string>
+
     <!-- TODO: Remove or change this placeholder text -->
+
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="total_rent">Total Rent:</string>
+
+    <string name="type_rent_here">Type Rent Here</string>
+
+    <string name="next_month">Next Month</string>
+
+    <string name="add_roommate_to_rent">Add New Roommate To Share The Rent</string>
 </resources>
